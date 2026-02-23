@@ -304,7 +304,7 @@
                 <div class="contact-form-container">
                     <h3>Send Me a Message</h3>
                     
-                    <form id="contactForm" class="contact-form">
+                    <form id="contactForm" class="contact-form" action="https://formspree.io/f/xvzbvgbg" method="POST">
                         <div class="form-group">
                             <label for="name">Name</label>
                             <input type="text" id="name" name="name" placeholder="Your name" required>
